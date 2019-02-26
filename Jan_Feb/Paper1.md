@@ -52,4 +52,4 @@ The whole idea of the paper is to give light how several machine learning algori
 Active Learning is a method used in supervised Learning, and it automatically chooses the most valuable unlabelled sample, the one aht is expected to improve the identification performance of classifiers when labelled correctly and used as Training Data
 
 ## What Next!!??? 
-As a continuation of this  I will be summarizing about the idea of how Unsupervised Techniques can actually help in some of these tasks and also discuss about an idea of thinking beyond supervised learning on a Computer Vision Perspecive.All this coming up in Paper2.!!!
+As a continuation of this  I will be summarizing about the idea of how Unsupervised Techniques can actually help in some of these tasks and also discuss about an idea of thinking beyond supervised learning on a Computer Vision Perspecive.All this coming up in Paper 2.!!!
