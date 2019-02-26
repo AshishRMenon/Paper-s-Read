@@ -11,7 +11,7 @@ Department of Genomic Pathology, Medical Research Institute, Tokyo Medical and D
 This Paper gave an idea about how Machine Learning Algorithms help in automation of Histopathological Images(Image modality for study of tissue) and thus helping the pathologists come up withe results quicker with improved accuracy
 
 ## Basic Definitions:
-**i.)Whole Slide Images(WSI)**: Digital Image representation of the images of Tissues, on which one or several of the ML algorithms can be applied
+**i.)Whole Slide Images(WSI)**: Digital Image representation of the Tissues of human body, on which one or several of the ML algorithms can be applied
 
 **ii.)Pathology**:Specimen containing tissues of human body to be analyzed
 
