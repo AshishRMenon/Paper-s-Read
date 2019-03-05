@@ -47,4 +47,4 @@ Data-centric techniques include data augmentation which involves tweaking the da
 
 ### Algorithm Centric:
 
-Algorithm-centric techniques try to relax the need of perfectly labeled data by altering the model requirements to acquire supervision through inexact inaccurate and incomplete labels.Techniques involving on-demand human supervision have also been used to label selective instances from the dataset.
+Algorithm-centric techniques try to relax the need of perfectly labeled data by altering the model requirements to acquire supervision through inexact inaccurate and incomplete labels.Techniques involving on-demand human supervision have also been used to label selective instances from the dataset.Hence
