@@ -124,34 +124,3 @@ Though GANs show such inherent advantages over discriminatively trained CNNs, th
 *   Figure b.) Representing the percentage number of papers using GANs applied to different modalities of Medical Imaging
 *   Figure c.) Number of papers published using GANs in Medical field over the years
 
-<section id="extras" class="body">
-
-<div class="blogroll">
-
-## links
-
-*   [Pelican](http://getpelican.com/)
-*   [Python.org](http://python.org/)
-*   [Jinja2](http://jinja.pocoo.org/)
-*   [You can modify those links in your config file](#)
-
-</div>
-
-<div class="social">
-
-## social
-
-*   [You can add links in your config file](#)
-*   [Another social link](#)
-
-</div>
-
-</section>
-
-<footer id="contentinfo" class="body">
-
-<address id="about" class="vcard body">Proudly powered by [Pelican](http://getpelican.com/), which takes great advantage of [Python](http://python.org).</address>
-
-The theme is by [Smashing Magazine](http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/), thanks!
-
-</footer>
